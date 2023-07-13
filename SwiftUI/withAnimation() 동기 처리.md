@@ -30,18 +30,18 @@ extension View {
 
 ```swift
 Task {
-	// 1번 함수
-	await animate(duration: 0.4) {
-		for _ in 0...250 {
-			self.offsetA += 1
-		}
-	}
-	// 2번 함수
-	await animate(duration: 0.6) {
-		for _ in 0..<100 {
-			self.offsetB += 0.01
-		}
-	}
+    // 1번 함수
+    await animate(duration: 0.4) {
+        for _ in 0...250 {
+            self.offsetA += 1
+        }
+    }
+    // 2번 함수
+    await animate(duration: 0.6) {
+        for _ in 0..<100 {
+            self.offsetB += 0.01
+        }
+    }
 }
 ```
 
