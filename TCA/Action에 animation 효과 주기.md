@@ -58,8 +58,10 @@ struct SignInFeature: Reducer {
 - 예시) User가 `View`의 Button을 tap하면, `State`의 변수 `value`의 값을 +1 시켜주는 기능을 작성하는 경우.
 	- `View` 에서 `viewStore.send(.updateValue)` 호출.
 	- `Reducer`는 `state.value += 1` 코드 실행.
-	- 이 때, `Reducer`의 내부 실행 구문에서 `withAnimation` 같은 closure를 실행할 수 있는데, **closure 내부에서는 직접 `State`의 값을 수정할 수 없다.**
-- TODO: 왜 못하는지 이유 추가하기
+	- 이 때, `Reducer`의 내부 실행 구문에서 `withAnimation`을 사용해서 값을 변경할 수는 있지만, 애니메이션 효과가 적용되지는 않는다. (왜인지는 아직 잘 모르겠음.)
+	- 그래서, 해당Action에서 `.none`이 아닌 `.run { }` 을 반환하고, 동시에 `.animation()` 속성을 추가해주면 애니메이션 효과가 적용된다.
+	- 그런데 한 가지 문제가 더 있다. `Reducer`가  `State`를 변수로 가져올 때, **`inout`** 타입으로 가져온다는 것. 따라서, `.run { }` closure 내부에서 변수 값을 직접 바꾸지 못한다는 것을 의미한다.
+		- 바꾸려고 하면, `Mutable capture of 'inout' parameter 'state' is not allowed in concurrently-executing code` 에러가 발생한다.
 
 위의 예시 코드처럼 **오직 변수값을 수정하는 동작만을 수행하는** `Action`을 별도로 구성하고, `.run{}` Action을 return하면 **Animation 효과와 함께 변수의 값을 수정**할 수 있다.
 
