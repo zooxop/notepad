@@ -1,5 +1,16 @@
 # Notepad
----
-- Development, CS, Network, and so on.
-- TIL
-- markdown
+
+- ## iOS & macOS
+	- ### [[Swift]]
+	- ### [[SwiftUI]]
+	- ### [[TCA]]
+
+
+- ## References
+	- ### [[References]]
+
+- ## Git / Github
+	- ### [[Git]]
+
+- ### Machine Learning
+	- ### [[Machine-Learning]]
