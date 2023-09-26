@@ -7,6 +7,7 @@
 
 - ## References
 	- ### [[References]]
+	- ### [[Books]]
 
 - ## Git / Github
 	- ### [[Git]]
@@ -16,3 +17,6 @@
 
 - ## Python
 	- ### [[Python]]
+
+- ## Infrastructure
+	- ### [[Azure for Students]]
