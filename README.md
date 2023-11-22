@@ -4,6 +4,8 @@
 	- ### [[Swift]]
 	- ### [[SwiftUI]]
 	- ### [[TCA]]
+	- ### [[Modular Architecture]]
+
 
 - ## References
 	- ### [[References]]
