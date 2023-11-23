@@ -14,6 +14,7 @@
 - [[Xcode 디버깅 Tips]]
 ## 면접 예상 질문
 - [[Frame과 Bounds의 차이점]]
+- [[Struct와 Class의 차이]]
 
 ## Daemon 관련
 - [[about macOS Daemon]]
