@@ -15,3 +15,7 @@
 
 #### `gunicorn` service 등록 관련
 > 참고 : https://wikidocs.net/177269
+
+
+## OpenCV
+- [[자동차 번호판 인식하기]]
