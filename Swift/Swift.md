@@ -2,6 +2,7 @@
 ## 개념
 - [[Protocol-Oriented Programming(POP) (작성중)]]
 - [[Opaque Type(some, any)]]
+- [[@State 변수가 저장되는 특별한 저장소]]
 
 ## 예제
 - [[(예제 code) 예외 처리]]
@@ -21,3 +22,8 @@
 
 ## Daemon 관련
 - [[about macOS Daemon]]
+- [[앱 배포 전 공증]]
+
+
+## 에러 해결
+- [[CodeSign script 실행 에러(deny)]]
