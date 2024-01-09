@@ -1,8 +1,10 @@
 # Notepad
 
-- ## iOS & macOS
+- ## Apple platform development
 	- ### [[Swift]]
 	- ### [[SwiftUI]]
+	- ### [[iOS]]
+	- ### [[macOS]]
 	- ### [[TCA]]
 	- ### [[Modular Architecture]]
 

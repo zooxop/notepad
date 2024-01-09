@@ -23,11 +23,5 @@
 - [[Frame과 Bounds의 차이점]]
 - [[Struct와 Class의 차이]]
 
-## Daemon 관련
-- [[about macOS Daemon]]
-- [[앱 배포 전 공증]]
-- [[dmg 와 pkg의 정의 및 차이점]]
-
-
 ## 에러 해결
 - [[CodeSign script 실행 에러(deny)]]
