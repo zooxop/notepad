@@ -1,6 +1,6 @@
 # Notepad
 
-- ## Apple platform development
+- ## Apple platform development
 	- ### [[Swift]]
 	- ### [[SwiftUI]]
 	- ### [[iOS]]
