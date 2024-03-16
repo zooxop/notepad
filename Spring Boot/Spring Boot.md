@@ -1,6 +1,7 @@
 
 ## Annotation 설명
 - [[@PostMapping vs @PutMapping]]
+- [[@PersistenceContext]]
 
 ## H2 Database
 - [[Database Setting 에러 해결법]]
