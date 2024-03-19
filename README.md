@@ -9,6 +9,10 @@
 	- ### [[Modular Architecture]]
 
 
+- ## Language
+	- ### [[Java]]
+	- ### [[Python]]
+
 - ## References
 	- ### [[References]]
 	- ### [[Books]]
@@ -20,7 +24,7 @@
 	- ### [[Machine-Learning]]
 
 - ## Python
-	- ### [[Python]]
+	
 
 - ## Infrastructure
 	- ### [[Azure for Students]]
