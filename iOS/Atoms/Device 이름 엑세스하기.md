@@ -13,6 +13,12 @@
 
 위 사이트에 들어가서 권한을 요청한다.
 
-## 3. info.plist 파일에 권한 추가하기
+## 3. 앱스토어 커넥트 - 앱 Identifier 에서 capability 추가하기
+아래 절차는 **승인 완료 메일을 받은 다음**에 진행할 수 있음.
+
+> 출처 : https://stackoverflow.com/questions/72983299/how-to-get-an-ipads-device-name-on-ios16
+![[Device 이름 액세스 - 앱 ID.png]]
+
+## 4. info.plist 파일에 권한 추가하기
 
 작성중
