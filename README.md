@@ -23,9 +23,6 @@
 - ## Machine Learning
 	- ### [[Machine-Learning]]
 
-- ## Python
-	
-
 - ## Infrastructure
 	- ### [[Azure for Students]]
 	- ### [[Firebase]]
