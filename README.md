@@ -32,6 +32,7 @@
 
 - ## Web
 	- ### [[Web]]
+	- ### [[Redis]]
 
 - ## Spring Boot
 	- ### [[Spring Boot]]
