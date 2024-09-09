@@ -1,45 +1,37 @@
 # Notepad
 
-- ## Apple platform development
-	- ### [[Swift]]
-	- ### [[SwiftUI]]
-	- ### [[iOS]]
-	- ### [[macOS]]
-	- ### [[TCA]]
-	- ### [[Modular Architecture]]
-
+> CS 및 개발 전반에 대한 메모와 학습을 기록하는 **Notepad**
 
 - ## Language
-	- ### [[Java]]
-	- ### [[Python]]
-
-- ## References
-	- ### [[References]]
-	- ### [[Books]]
-
-- ## Git / Github
-	- ### [[Git]]
-
-- ## Machine Learning
-	- ### [[Machine-Learning]]
-
-- ## Infrastructure
-	- ### [[Azure for Students]]
-	- ### [[Firebase]]
-
-- ## Network
-	- ### [[Network]]
+	- ### [Java](Java.md)
+	- ### [Swift](Swift.md)
+	- ### [SwiftUI](SwiftUI.md)
+	- ### [Python](Python.md)
 
 - ## Web
-	- ### [[Web]]
-	- ### [[Redis]]
+	- ### [Web 이론](Web%20이론.md)
+	- ### [Spring Boot](Spring%20Boot.md)
 
-- ## Spring Boot
-	- ### [[Spring Boot]]
+- ## Network
+	- ### [Network](Network.md)
 
-- ## Unit Test (TDD)
-	- ### [[Unit Test]]
+- ## Unit Test
+	- ### [Unit Test](Unit%20Test.md)
 
+- ## Apple platform development
+	- ### [iOS](iOS.md)
+	- ### [macOS](macOS.md)
+	- ### [TCA](TCA.md)
+	- ### [Modular Architecture](Modular%20Architecture.md)
 
-- ## Algorithm (coding test)
-	- ### [[Programmers]]
+- ## Infrastructure
+	- ### [Azure for Students](Azure%20for%20Students.md)
+	- ### [Firebase](Firebase.md)
+	- ### [Redis](Redis.md)
+
+- ## Git / Github
+	- ### [Git](Git.md)
+
+- ## References
+	- ### [References](References.md)
+	- ### [Books](Books.md)
