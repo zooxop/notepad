@@ -1,37 +1,34 @@
-# Notepad
+# 개발 및 CS 학습 기록 & 메모
 
-> CS 및 개발 전반에 대한 메모와 학습을 기록하는 **Notepad**
+## [Language](Language/Language.md)
+- Java
+- Swift
+- Python
 
-- ## Language
-	- ### [Java](Java.md)
-	- ### [Swift](Swift.md)
-	- ### [SwiftUI](SwiftUI.md)
-	- ### [Python](Python.md)
+## [Web](Web/Web.md)
+- Web 이론
+- Spring Boot
 
-- ## Web
-	- ### [Web 이론](Web%20이론.md)
-	- ### [Spring Boot](Spring%20Boot.md)
+## [Network](Network/Network.md)
+- Network
 
-- ## Network
-	- ### [Network](Network.md)
+## [Unit Test](Unit%20Test/Unit%20Test.md)
+- Unit Test
 
-- ## Unit Test
-	- ### [Unit Test](Unit%20Test.md)
+## [Apple Platform Development](Apple%20Platform%20Development/Apple%20Platform%20Development.md)
+- iOS
+- macOS
+- TCA
+- SwiftUI
 
-- ## Apple platform development
-	- ### [iOS](iOS.md)
-	- ### [macOS](macOS.md)
-	- ### [TCA](TCA.md)
-	- ### [Modular Architecture](Modular%20Architecture.md)
+## [Infrastructure](Infrastructure/Infrastructure.md)
+- Azure for Students
+- Firebase
+- Redis
 
-- ## Infrastructure
-	- ### [Azure for Students](Azure%20for%20Students.md)
-	- ### [Firebase](Firebase.md)
-	- ### [Redis](Redis.md)
+## [Git / Github](Git/Git.md)
+- Git
 
-- ## Git / Github
-	- ### [Git](Git.md)
-
-- ## References
-	- ### [References](References.md)
-	- ### [Books](Books.md)
+## [References](References/References.md)
+- References
+- Books
