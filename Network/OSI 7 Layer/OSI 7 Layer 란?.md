@@ -4,7 +4,7 @@
 > - https://aws-hyoh.tistory.com/entry/OSI-7-Layer-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0
 
 
-![[../../assets/OSI7 and TCPIP4.png]]
+![](../../assets/OSI7%20and%20TCPIP4.png)
 
 ## 1계층 - 물리계층(Physical Layer)
 
