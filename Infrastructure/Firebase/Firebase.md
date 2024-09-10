@@ -5,9 +5,8 @@
 > ‘파이어베이스’의 제품군 안에는 ==**17개의 개별 제품**==들이 존재한다.
 
 
-![[../../assets/Firebase 제품군.png]]
+![](../../assets/Firebase%20제품군.png)
 
----
 
 ## Build better apps (앱 개발)
 
@@ -43,7 +42,6 @@
 ## Improve app quality (앱 개선)
 
 
----
 
 ## Grow your app (앱 개선)
 
