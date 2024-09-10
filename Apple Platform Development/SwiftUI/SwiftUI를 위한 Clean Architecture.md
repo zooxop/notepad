@@ -35,7 +35,7 @@
 
 >소프트웨어를 레이어별로 나누고, Dependency Rule을 준수함으로써 본질적인 테스트가 가능한 시스템을 만들 수 있습니다. 이에 따른 이점들은 덤이죠.
 
-![[../../assets/Clean-Architecture-layers.png]]
+![](../../assets/Clean-Architecture-layers.png)
 
 ## AppState
 

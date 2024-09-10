@@ -10,10 +10,10 @@
 	- (단, `merge` 명령을 `Fast-forward`로 하지 않은 경우.)
 
 ##### merge로 병합할 때 커밋 이력
-![[../../assets/merge-example.png]]
+![](../../assets/merge-example.png)
 
 ##### rebase로 병합할 때 커밋 이력
-![[../../assets/rebase-example.png]]
+![](../../assets/rebase-example.png)
 
 ---
 
@@ -29,10 +29,10 @@
 	- master에 merge 되지 못한 commit 중 필요한 commit만 골라서 가져오고 싶을 때
 
 ##### cherry-pick 실행 전
-![[../../assets/cherry-pick-before.png]]
+![](../../assets/cherry-pick-before.png)
 
 ##### cherry-pick 실행 후
-![[../../assets/cherry-pick-after.png]]
+![](../../assets/cherry-pick-after.png)
 
 <br>
 <br>

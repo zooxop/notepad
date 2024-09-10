@@ -61,4 +61,4 @@
     - 만약 메시징 플랫폼으로 FCM을 사용한다면, 별도로 Header에 값을 추가할 필요 없이 payload에 "content-available" 값만 잘 전달해주면 됩니다. 
 ```
 
-![[../../../assets/Remote Push Notification method 동작.png]]
+![](../../assets/Remote%20Push%20Notification%20method%20동작.png)

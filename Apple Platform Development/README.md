@@ -1,7 +1,7 @@
 
 ## iOS
 **개인정보**
-- [Device 이름 엑세스하기](Device%20이름%20엑세스하기.md)
+- [Device 이름 엑세스하기](iOS/Device%20이름%20엑세스하기.md)
 
 ## macOS
 **Daemon 관련**
