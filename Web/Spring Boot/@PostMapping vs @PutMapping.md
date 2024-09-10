@@ -1,7 +1,7 @@
 
 일반적인 형태의 CRUD 형식은 다음과 같이 사용된다.
 
-![[../../../assets/일반적인 CRUD 형태.png]]
+![](../../assets/일반적인%20CRUD%20형태.png)
 
 ## ❓`@PostMapping` 과 `@PutMapping`의 차이점?
 
