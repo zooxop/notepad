@@ -9,7 +9,8 @@
 - Web 이론
 - Spring Boot
 
-## [Network](Network/README.md)
+## [CS](CS/README.md)
+- Computer 구조
 - Network
 
 ## [Unit Test](Unit%20Test/Unit%20Test.md)

@@ -4,7 +4,7 @@
 > - https://aws-hyoh.tistory.com/entry/OSI-7-Layer-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0
 
 
-![](../../assets/OSI7%20and%20TCPIP4.png)
+![](../../../assets/OSI7%20and%20TCPIP4.png)
 
 ## 1계층 - 물리계층(Physical Layer)
 
@@ -61,7 +61,7 @@
 - TCP/IP 기반의 인터넷 망을 통하여 ==**데이터그램의 전달을 담당**==하는 프로토콜
 - 주요 기능
 	- IP 계층에서 IP 패킷의 라우팅 대상이 된다.
-	- [[../Network 기본 이론/IP 주소 지정 (Addressing)]]
+	- [[IP 주소 지정 (Addressing)]]
 - 주요 특징
 	- **신뢰성(에러제어)** 및 **흐름 제어** 기능이 ==**전혀 없다.**==
 		- 신뢰성 확보를 위해서는 상위의 트랜스포트 계층 (TCP, UDP 등)에 의존한다.
