@@ -10,7 +10,7 @@
 - Spring Boot
 
 ## [CS](CS/README.md)
-- Computer 구조
+- 컴퓨터 구조
 - Network
 
 ## [Unit Test](Unit%20Test/Unit%20Test.md)

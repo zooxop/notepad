@@ -31,6 +31,10 @@
 
 
 ## Java
+**Java**
+- [평가 전략-작성중](Java/평가%20전략-작성중.md)
+- [즉시 평가와 지연 평가](Java/즉시%20평가와%20지연%20평가.md)
+
 **Collection**
 - [stream()-작성중](Java/stream().md)
 - [더블콜론](Java/더블콜론.md)
